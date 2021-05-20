@@ -77,7 +77,7 @@ The Test plan of our project, Air Quality monitor will be done through three typ
 - Load Test  
 
 
-### Unit Test
+#### Unit Test
 
 This testing type will be used in-order to verify the behavior of the Air Quality monitor independently from other parts. From that it can ensure that every single unit in the system works correctly.
 
@@ -87,7 +87,7 @@ Workability of MQTT server will be tested using publisher and subscriber which a
 
  
 
-### Integration Test
+#### Integration Test
 
 Integration Test will be used in-order to demonstrate that different parts of a system work together in the real-life environment with the use of external resources. For our project, database and web servers will be used as external resources. By doing this testing. We hope to achieve a high level of confidence that the whole system works as expected.
 
@@ -97,7 +97,7 @@ Furthermore, under this test, it can be checked whether data of every sensor is 
 
  
 
-### Load Test
+#### Load Test
 
 Under load test, it will be determined the speed, scalability of the system. From this test, the system behavior under both normal and peak load conditions (number of nodes) will be verified.
 
