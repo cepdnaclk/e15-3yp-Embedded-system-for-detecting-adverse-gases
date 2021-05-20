@@ -56,7 +56,9 @@ Therefore, our plan is to implement an embedded system for the use of government
 
   
 
-![Image](docs/data/images/4.jpeg)  
+![Image](docs/data/images/4.jpeg)  ![Image](docs/data/images/5.jpeg)  ![Image](docs/data/images/6.jpeg)  ![Image](docs/data/images/7.jpeg)  
+
+
 
 
 
