@@ -57,7 +57,8 @@ In the server side we wish to analyze and filter the row of sensors and will dis
 
 For our project, we are going to use sensors; MQ9 (CO sensor), AM2301(Temperature and humidity sensor), SO2 alpha-sensors and NO2 sensor. Initially, sensor details were studied by referring datasheet of each sensor . After that, the sensors are connected to the arduino UNO board and arduino codes were written to all of those sensors in order to read voltage values of the sensors' outputs. Calibration is done for measuring temperature and humidity. Meanwhile, php and mysql were studied in order to create a database to website.  
 
-![Image](data/images/4.jpeg)  
+![Image](data/images/4.jpeg)  ![Image](data/images/5.jpeg)  ![Image](data/images/6.jpeg)  ![Image](data/images/7.jpeg)  
+
 
 As we decided at very first of that project, CO, SO2, Temperature and Humidity can be measured through the developed device. Furthermore, to measure CH4 gasses which are discharged from the factories, another sensor also was added. For that, MQ-2 Gas sensor module smoke was used. So at Milestone 3, successfully,  we could show that the device was taking data from that sensor.  
 
