@@ -1,57 +1,88 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
 
-# eYY-3yp-project-template
+# Please update this with your repository name and title
+repository-name: e15-3yp-Embedded-system-for-detecting-adverse-gases
+title: Embedded system for detecting adverse gases
+---
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-### Enable GitHub Pages
+# Embedded system for detecting adverse gases
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+---
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+## Team
+-  E/15/243, NISANSALA R.M.B.S., [e15243@eng.pdn.ac.lk](mailto:e15243@eng.pdn.ac.lk)
+-  E/15/271, PRASADIKA L.B.S., [sonaliprasadika077@gmail.com](mailto:sonaliprasadika077@gmail.com)
+-  E/15/180, KARUNATHILAKA V.M.B.S.S.V., [supipivirajini@gmail.com](mailto:supipivirajini@gmail.com)
 
-### Special Configurations
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture )
+3. [Hardware & Software Designs](#hardware-and-software-designs)
+4. [Testing](#testing)
+5. [Links](#links)
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+---
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+## Introduction  
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
+[Intro Video](docs/data/videos/Air_Quality_Monitor.mp4)  
 
-### Page Theme
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+As we all know, air pollution is a growing problem in Sri Lanka. This is mainly due to motorization and industrialization. Among those two sections, we concentrate on industrialization with a hope of providing solution to that problem from our decided embedded system.  
+
+![Image](docs/data/images/1.PNG)  
+
+Basically, authorities who are responsible for air pollution controlling our country,tend to regulate air pollution due to toxic gasses leaving from factories only at the beginning of them. But,with the time, that process is not longer continued by the authorities.Then, the factories are feel free to discharge air pollutants to the environment by exceeding the limit identified by the authorities. This is because regularly, authorities do not have proper system to detect whether a factory is discharging air pollutants with a control.  
+
+
+
+
+## Solution Architecture
+
+Therefore, our plan is to implement an embedded system for the use of government, from which authorities can anytime come and check whether factories are discharging toxic gasses exceeding the limitation. Actually this is just like a meter reading at our home. On the display of the system, the percentage of CO, SO2, NO2, Humidity, Temperature will be shown.  
+
+![Image](docs/data/images/2.PNG)  
+
+
+
+## Hardware and Software Designs
+  
+
+![Image](docs/data/images/3.PNG)  
+
+  
+
+![Image](docs/data/images/4.jpeg)  
+
+
+
+
+## Testing
+
+The Test plan of our project, Air Quality monitor will be done through three types of tests. They are;
+
+- Unit Test
+- Integration Test
+- Load Test  
+ 
+
+[Modified Test Plan](docs/data/pdfs/Group_09_Air_Quality_Monitor_test_plan.pdf)  
+
+
+
+
+
+## Links
+
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Embedded-system-for-detecting-adverse-gases" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Embedded-system-for-detecting-adverse-gases/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
