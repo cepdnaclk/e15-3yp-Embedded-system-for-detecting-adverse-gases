@@ -14,7 +14,7 @@ title: Embedded system for detecting adverse gases
 ---
 
 ## Team
--  E/15/243, NISANSALA R.M.B.S., [e15243@eng.pdn.ac.lk](mailto:e15243@eng.pdn.ac.lk)
+-  E/15/243, NISANSALA R.M.B.S., [sewwanis@gmail.com](mailto:sewwanis@gmail.com)
 -  E/15/271, PRASADIKA L.B.S., [sonaliprasadika077@gmail.com](mailto:sonaliprasadika077@gmail.com)
 -  E/15/180, KARUNATHILAKA V.M.B.S.S.V., [supipivirajini@gmail.com](mailto:supipivirajini@gmail.com)
 
@@ -50,11 +50,11 @@ Therefore, our plan is to implement an embedded system for the use of government
 
 
 ## Hardware and Software Designs
-  
+
 
 ![Image](docs/data/images/3.PNG)  
 
-  
+
 
 ![Image](docs/data/images/4.jpeg)  ![Image](docs/data/images/5.jpeg)  ![Image](docs/data/images/6.jpeg)  ![Image](docs/data/images/7.jpeg)  
 
@@ -70,7 +70,7 @@ The Test plan of our project, Air Quality monitor will be done through three typ
 - Unit Test
 - Integration Test
 - Load Test  
- 
+
 
 [Modified Test Plan](docs/data/pdfs/Group_09_Air_Quality_Monitor_test_plan.pdf)  
 

@@ -14,7 +14,7 @@ title: Embedded system for detecting adverse gases
 ---
 
 ## Team
--  E/15/243, NISANSALA R.M.B.S., [e15243@eng.pdn.ac.lk](mailto:e15243@eng.pdn.ac.lk)
+-  E/15/243, NISANSALA R.M.B.S., [sewwanis@gmail.com](mailto:sewwanis@gmail.com)
 -  E/15/271, PRASADIKA L.B.S., [sonaliprasadika077@gmail.com](mailto:sonaliprasadika077@gmail.com)
 -  E/15/180, KARUNATHILAKA V.M.B.S.S.V., [supipivirajini@gmail.com](mailto:supipivirajini@gmail.com)
 
